@@ -9,3 +9,5 @@
 🌟 Recently, I started my open-source journey and completed Hacktoberfest 2023. I'm eager to continue contributing and learning from the open-source community.
 
 Let's connect and collaborate on exciting projects! 🤝
+
+[![An image of @mohebmithani's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mohebmithani)](https://holopin.io/@mohebmithani)
